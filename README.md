@@ -184,5 +184,5 @@ pip install -r requirements.txt
 
 **Piyush Raj**
 
-- GitHub: 
+- GitHub: https://github.com/Piyush-Raj-05
 - LinkedIn: 
